@@ -35,7 +35,7 @@ Wheat Kernel Classification Machine Learning Projects
         └── main.css
 ```
 ### Machine Learnings Project Structure:
-
+```
 parent dir
     |
     |--- app.py
@@ -84,3 +84,4 @@ parent dir
     |--- .gitignore
     |--- .dockerignore
     |--- .env
+```
