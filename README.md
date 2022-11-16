@@ -1,6 +1,17 @@
 # WheatKernel
 Wheat Kernel Classification Machine Learning Projects
 
+### Wheat Kernel : Classification as well Culstering Project
+
+#### Classification: Model traned
+-- KNN Algorithams
+-- Decision Tree
+-- Logisitc Regression 
+
+#### Clustering: Models
+-- KMeans Clustering
+-- GaussianMixture 
+
 ### Project Structure for Django Frameworks
 
 ```
